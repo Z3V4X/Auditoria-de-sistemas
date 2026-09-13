@@ -26,8 +26,11 @@ Los riesgos son la seguridad de datos, la disponibilidad del sistema y el acceso
 
 3. **ITIL:** Este sería el tercer marco porque, después de garantizar la seguridad y el gobierno de TI, se debe evaluar la calidad del servicio y la experiencia del usuario. Se centra en la gestión de incidentes, problemas y continuidad del servicio, lo cual es clave en la biblioteca, donde los estudiantes dependen de los equipos y sistemas para estudiar.
 
-### 4. Las evidencia que le pediríamos al equipo de TI:
+### 5. Las evidencia que le pediríamos al equipo de TI:
 1. **ISO/IEC 27001**
 - Políticas de seguridad de la información aplicadas al sistema bibliotecario (ej. control de accesos, uso de contraseñas, roles de usuario).
 
 - Registros de incidentes de seguridad y planes de respuesta ante fugas de datos o accesos indebidos.
+
+2. **COBIT**
+
