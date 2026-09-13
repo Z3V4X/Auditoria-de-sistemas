@@ -15,6 +15,13 @@ La biblioteca ha sido blanco de personas malintencionadas que han cometido actos
 Los riesgos son la seguridad de datos, la disponibilidad del sistema y el acceso de los recursos digitales y físicos del lugar, tanto propios del lugar como ajenos a el.
 
 ### 3. Marcos aplicados
-1. ISO/IEC 27001 (primero)
-2. COBIT (segundo)
-3. ITIL (tercero)
+1. ISO/IEC 27001
+2. COBIT
+3. ITIL
+
+### 4. ¿Por que los marcos en ese orden?
+1. ISO/IEC 27001: 
+
+2. COBIT:
+
+3. ITIL:
