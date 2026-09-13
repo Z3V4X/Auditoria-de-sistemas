@@ -29,8 +29,12 @@ Los riesgos son la seguridad de datos, la disponibilidad del sistema y el acceso
 ### 5. Las evidencia que le pediríamos al equipo de TI:
 1. **ISO/IEC 27001**
 - Políticas de seguridad de la información aplicadas al sistema bibliotecario (ej. control de accesos, uso de contraseñas, roles de usuario).
-
 - Registros de incidentes de seguridad y planes de respuesta ante fugas de datos o accesos indebidos.
 
 2. **COBIT**
+- Documentación de procesos de TI de la biblioteca (ej. flujo de préstamos digitales, gestión de equipos de cómputo).
+- Informes de auditorías internas o métricas de desempeño del sistema bibliotecario (ej. disponibilidad del sistema, satisfacción de usuarios).
 
+3. **ITIL**
+- Reportes de tickets de soporte y tiempos de resolución de fallas en equipos o sistemas de préstamos.
+- Procedimientos de gestión de cambios y continuidad del servicio (ej. protocolos cuando se actualiza el sistema bibliotecario o se cae la plataforma).
