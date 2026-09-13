@@ -20,9 +20,8 @@ Los riesgos son la seguridad de datos, la disponibilidad del sistema y el acceso
 3. ITIL
 
 ### 4. ¿Por que los marcos en ese orden?
-1. **ISO/IEC 27001:** Este seria el primero ya que uno de los problemas seria la información de los equipos (computadoras) de los encargados de la biblioteca, esto pueden contener datos valiosos del lugar, los empleados, estudiantes, acceso a una base de datos, el cual puede provocar fugas de información y manipulación de estos por terceros.
+1. **ISO/IEC 27001:** Este seria el primer marco, ya que uno de los problemas seria la información de los equipos (computadoras) de los encargados de la biblioteca, esto pueden contener datos valiosos del lugar, los empleados, estudiantes, acceso a una base de datos, el cual puede provocar fugas de información y manipulación de estos por terceros.
 
-2. **COBIT:** 
+2. **COBIT:** Este sería el segundo marco porque, una vez asegurada la información, es necesario revisar cómo se gobiernan y gestionan los procesos de TI en la biblioteca. Este permite evaluar si los sistemas bibliotecarios (préstamos, acceso digital, uso de equipos) están alineados con los objetivos académicos de la universidad y si los recursos tecnológicos se administran de manera eficiente.
 
-
-3. **ITIL:**
+3. **ITIL:** Este sería el tercer marco porque, después de garantizar la seguridad y el gobierno de TI, se debe evaluar la calidad del servicio y la experiencia del usuario. Se centra en la gestión de incidentes, problemas y continuidad del servicio, lo cual es clave en la biblioteca, donde los estudiantes dependen de los equipos y sistemas para estudiar.
