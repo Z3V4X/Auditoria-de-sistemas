@@ -14,5 +14,7 @@ Esta ofrece prestamos de libros físicos y acceso a recursos digitales mediante 
 La biblioteca ha sido blanco de personas malintencionadas que han cometido actos de robo a pertenencias de los estudiantes que quedan a descansar en el, han tenido reportes de intentos de robos de los libros, manipulaciones indebida de los equipos.
 Los riesgos son la seguridad de datos, la disponibilidad del sistema y el acceso de los recursos digitales y físicos del lugar, tanto propios del lugar como ajenos a el.
 
-
-
+### 3. Marcos aplicados
+ISO/IEC 27001 (primero)
+COBIT (segundo)
+ITIL (tercero)
