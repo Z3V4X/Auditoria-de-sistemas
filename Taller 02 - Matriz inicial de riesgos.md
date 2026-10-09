@@ -1,25 +1,25 @@
-Matriz inicial de riesgos
-Integrantes
-Sebastian Meneses Sierra
-Caso y contexto actualizado
+### Matriz inicial de riesgos
+### Integrantes
+- Sebastian Meneses Sierra
 
+### Caso y contexto actualizado
 La Biblioteca de la Institución Universitaria Pascual Bravo utiliza un sistema de gestión bibliotecaria para administrar préstamos de libros físicos, acceso a recursos digitales y datos de estudiantes y docentes. Además, dispone de equipos de cómputo para uso académico. El análisis se centra en el sistema de gestión bibliotecaria, los datos de los usuarios y los procesos de control de acceso a los recursos digitales y físicos.
 
-Supuestos
-No se tuvo acceso directo a la documentación interna de la universidad.
-Se asume que el sistema bibliotecario almacena información personal de estudiantes y docentes.
-Se asume que existen cuentas de usuario para personal administrativo y bibliotecarios.
-No se pudo verificar la existencia de controles formales de revisión de accesos o respaldos.
-Los controles actuales se describen como supuestos razonables basados en la información disponible.
-Activos y procesos identificados
-Base de datos de usuarios (estudiantes y docentes).
-Sistema de gestión bibliotecaria.
-Recursos digitales (libros electrónicos y bases de datos).
-Equipos de cómputo de la biblioteca.
-Proceso de gestión de cuentas y permisos.
-Respaldos de información del sistema.
+### Supuestos
+- No se tuvo acceso directo a la documentación interna de la universidad.
+- Se asume que el sistema bibliotecario almacena información personal de estudiantes y docentes.
+- Se asume que existen cuentas de usuario para personal administrativo y bibliotecarios.
+- No se pudo verificar la existencia de controles formales de revisión de accesos o respaldos.
+- Los controles actuales se describen como supuestos razonables basados en la información disponible.
+### Activos y procesos identificados
+- Base de datos de usuarios (estudiantes y docentes).
+- Sistema de gestión bibliotecaria.
+- Recursos digitales (libros electrónicos y bases de datos).
+- Equipos de cómputo de la biblioteca.
+- Proceso de gestión de cuentas y permisos.
+- Respaldos de información del sistema.
 
-Matriz inicial de riesgos
+### Matriz inicial de riesgos
 Integrantes
 Sebastian Meneses Sierra
 Caso y contexto actualizado
