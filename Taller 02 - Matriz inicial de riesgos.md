@@ -1,4 +1,4 @@
-### Matriz inicial de riesgos
+# Matriz inicial de riesgos
 ### Integrantes
 - Sebastian Meneses Sierra
 
@@ -20,7 +20,7 @@ La Biblioteca de la Institución Universitaria Pascual Bravo utiliza un sistema 
 - Proceso de gestión de cuentas y permisos.
 - Respaldos de información del sistema.
 
-### Riesgo R-01
+# Riesgo R-01
 
 Activo o proceso: Base de datos de usuarios
 
@@ -42,7 +42,7 @@ Control propuesto: Implementar contraseñas seguras, autenticación multifactor 
 
 Justificación: La información personal es uno de los activos más sensibles del sistema bibliotecario y su exposición puede generar consecuencias legales y reputacionales.
 
-### Riesgo R-02
+# Riesgo R-02
 
 Activo o proceso: Gestión de cuentas y permisos.
 
@@ -64,7 +64,7 @@ Control propuesto: Desactivar automáticamente las cuentas al finalizar contrato
 
 Justificación: La permanencia de cuentas activas aumenta significativamente la posibilidad de accesos indebidos.
 
-### Riesgo R-03
+# Riesgo R-03
 
 Activo o proceso: Sistema de gestión bibliotecaria.
 
@@ -86,7 +86,7 @@ Control propuesto: Implementar un plan de continuidad de negocio, realizar respa
 
 Justificación: El sistema soporta procesos críticos para estudiantes y docentes.
 
-### Riesgo R-04
+# Riesgo R-04
 
 Activo o proceso: Respaldos de información.
 
@@ -108,7 +108,7 @@ Control propuesto: Limitar el acceso a los respaldos mediante roles autorizados 
 
 Justificación: Los respaldos contienen información completa del sistema y representan un objetivo atractivo para accesos no autorizados.
 
-### Riesgo R-05
+# Riesgo R-05
 
 Activo o proceso: Equipos de cómputo de la biblioteca.
 
@@ -130,7 +130,7 @@ Control propuesto: Configurar cuentas de usuario restringidas, antivirus adminis
 
 Justificación: Los equipos son utilizados por múltiples usuarios diariamente, aumentando la probabilidad de incidentes.
 
-### Riesgo R-06
+# Riesgo R-06
 
 Activo o proceso: Recursos digitales y bases de datos electrónicas.
 
@@ -152,7 +152,7 @@ Control propuesto: Registrar accesos, generar alertas ante comportamientos anóm
 
 Justificación: Los recursos digitales son esenciales para las actividades académicas y deben utilizarse únicamente por usuarios autorizados.
 
-### Priorización de riesgos
+# Priorización de riesgos
 R-01: Acceso no autorizado a datos personales → Nivel 20.
 R-02: Cuentas activas de excolaboradores → Nivel 16.
 R-05: Malware en equipos de biblioteca → Nivel 16.
