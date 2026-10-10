@@ -19,26 +19,6 @@ La Biblioteca de la Institución Universitaria Pascual Bravo utiliza un sistema 
 - Proceso de gestión de cuentas y permisos.
 - Respaldos de información del sistema.
 
-### Matriz inicial de riesgos
-Integrantes
-Sebastian Meneses Sierra
-Caso y contexto actualizado
-
-La Biblioteca de la Institución Universitaria Pascual Bravo utiliza un sistema de gestión bibliotecaria para administrar préstamos de libros físicos, acceso a recursos digitales y almacenamiento de información de estudiantes y docentes. El análisis se enfoca en los activos y procesos relacionados con la gestión de usuarios, recursos digitales y continuidad de los servicios tecnológicos.
-
-Supuestos
-No se tuvo acceso a documentación interna de la biblioteca.
-Se asume que el sistema almacena datos personales de estudiantes y docentes.
-Se asume que existen cuentas administrativas para los bibliotecarios.
-No fue posible verificar la existencia de controles formales sobre accesos y respaldos.
-Los riesgos se construyen con base en supuestos razonables derivados del contexto analizado.
-Activos o procesos identificados
-Base de datos de estudiantes y docentes.
-Sistema de gestión bibliotecaria.
-Recursos digitales (bases de datos y libros electrónicos).
-Equipos de cómputo de la biblioteca.
-Proceso de gestión de cuentas y permisos.
-Respaldos de la información.
 Riesgo R-01
 
 Activo o proceso: Base de datos de usuarios
