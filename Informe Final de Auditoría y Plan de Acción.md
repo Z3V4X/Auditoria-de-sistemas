@@ -33,7 +33,7 @@ Sistema de gestión bibliotecaria.
 - Solicitudes de creación y eliminación de cuentas.
 
 ### Período evaluado
-Ejercicio académico con información simulada.
+Periodo simulado para fines académicos.
 
 ### Exclusiones
 - Infraestructura de red.
