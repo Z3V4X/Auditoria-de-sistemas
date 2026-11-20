@@ -109,3 +109,48 @@ Implementar revisiones periódicas de las cuentas activas y establecer mecanismo
 
 ### Nivel de prioridad
 Alta, debido a que el hallazgo se relaciona con el riesgo R-01 identificado en la matriz de riesgos, referente al acceso no autorizado a datos personales.
+
+# 6. Conclusión
+La prueba realizada permitió evaluar parcialmente el control de gestión de accesos definido para mitigar el riesgo R-01 relacionado con el acceso no autorizado a datos personales.
+
+Durante el ejercicio se identificó una excepción dentro de la muestra simulada analizada, correspondiente a una cuenta que permanecía activa después de la desvinculación del usuario.
+
+Sin embargo, debido al tamaño de la muestra y a la naturaleza académica del ejercicio, no es posible afirmar que la situación observada represente el comportamiento de toda la población de usuarios. Las conclusiones se limitan exclusivamente a la evidencia evaluada.
+
+# 7. Plan de acción
+### Hallazgo asociado
+H-01
+
+### Acción propuesta
+Realizar una revisión completa de las cuentas activas del sistema bibliotecario y deshabilitar aquellas asociadas a usuarios retirados.
+
+### Responsable propuesto
+Administrador del sistema bibliotecario.
+
+### Prioridad
+Alta.
+
+### Plazo propuesto
+30 días.
+
+### Evidencia de cierre esperada
+- Registro de revisión de cuentas.
+- Evidencia de desactivación de usuarios retirados.
+- Informe de verificación posterior del control.
+- Actualización del procedimiento de gestión de accesos.
+
+# 8. Anexos
+## Entregables relacionados
+- Taller 01 - Sesión N°3.md: caso, contexto y marcos de referencia.
+- Taller 02 - Matriz inicial de riesgos.md: identificación y valoración de riesgos.
+- Taller - Riesgo priorizado al plan de auditoría.md: objetivo, alcance, criterios y procedimientos de auditoría.
+- Informe Final de Auditoría y Plan de Acción.md: informe final, hallazgos y plan de acción.
+
+## Declaración
+Este trabajo corresponde a un ejercicio académico. La evidencia utilizada en la prueba presentada es simulada y se encuentra claramente identificada como tal, siguiendo las instrucciones de la guía del curso. Los resultados obtenidos no representan el estado real de la organización analizada.
+
+## Entregables relacionados
+- [Taller 01 - Sesión N°3](./Taller%2001%20-%20Sesion%20N%C2%B03.md)
+- [Taller 02 - Matriz inicial de riesgos](./Taller%2002%20-%20Matriz%20inicial%20de%20riesgos.md)
+- [Taller - Riesgo priorizado al plan de auditoría](./Taller%20-%20Riesgo%20priorizado%20al%20plan%20de%20auditor%C3%ADa.md)
+- [Informe Final de Auditoría y Plan de Acción](./Informe%20Final%20de%20Auditor%C3%ADa%20y%20Plan%20de%20Acci%C3%B3n.md)
