@@ -73,7 +73,7 @@ Muestra simulada de cinco cuentas de usuario.
 3. Identificación de cuentas activas pertenecientes a usuarios retirados.
 4. Registro de excepciones encontradas.
 
-###Condición considerada excepción
+### Condición considerada excepción
 Una cuenta asociada a un usuario retirado continúa activa.
 
 # 4. Evidencia y resultados de la prueba
@@ -88,6 +88,19 @@ Importante: Debido a que se trata de un ejercicio académico y no se dispone de 
 | Usuario C | Retirado       | Sí            | Excepción |
 | Usuario D | Activo         | Sí            | Conforme  |
 | Usuario E | Activo         | Sí            | Conforme  |
+
+### Resultado obtenido
+En la muestra simulada de cinco cuentas se identificó una excepción correspondiente al Usuario C, cuya cuenta permanecía activa a pesar de encontrarse en estado de retiro.
+
+Los demás registros evaluados se encontraron conformes con el criterio definido para la prueba.
+
+### Limitaciones de la prueba
+- La muestra utilizada es simulada y fue construida únicamente con fines académicos.
+- No se tuvo acceso a información real de la organización.
+- No fue posible verificar actividad real de las cuentas evaluadas.
+- Los resultados obtenidos no permiten inferir el comportamiento de toda la población de usuarios.
+
+Por lo anterior, las conclusiones se limitan exclusivamente a los elementos incluidos en la muestra presentada.
 
 # 5. Hallazgo de auditoría
 ## Hallazgo H-01: Cuenta activa asociada a un usuario retirado
@@ -141,16 +154,11 @@ Alta.
 
 # 8. Anexos
 ## Entregables relacionados
-- Taller 01 - Sesión N°3.md: caso, contexto y marcos de referencia.
-- Taller 02 - Matriz inicial de riesgos.md: identificación y valoración de riesgos.
-- Taller - Riesgo priorizado al plan de auditoría.md: objetivo, alcance, criterios y procedimientos de auditoría.
-- Informe Final de Auditoría y Plan de Acción.md: informe final, hallazgos y plan de acción.
-
-## Declaración
-Este trabajo corresponde a un ejercicio académico. La evidencia utilizada en la prueba presentada es simulada y se encuentra claramente identificada como tal, siguiendo las instrucciones de la guía del curso. Los resultados obtenidos no representan el estado real de la organización analizada.
-
-## Entregables relacionados
 - [Taller 01 - Sesión N°3](./Taller%2001%20-%20Sesion%20N%C2%B03.md)
 - [Taller 02 - Matriz inicial de riesgos](./Taller%2002%20-%20Matriz%20inicial%20de%20riesgos.md)
 - [Taller - Riesgo priorizado al plan de auditoría](./Taller%20-%20Riesgo%20priorizado%20al%20plan%20de%20auditor%C3%ADa.md)
 - [Informe Final de Auditoría y Plan de Acción](./Informe%20Final%20de%20Auditor%C3%ADa%20y%20Plan%20de%20Acci%C3%B3n.md)
+
+## Declaración
+Este trabajo corresponde a un ejercicio académico. La evidencia utilizada en la prueba presentada es simulada y se encuentra claramente identificada como tal, siguiendo las instrucciones de la guía del curso. Los resultados obtenidos no representan el estado real de la organización analizada.
+
